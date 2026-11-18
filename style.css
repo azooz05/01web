@@ -1,0 +1,54 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  padding: 10px;
+}
+.containere {
+    width: 500px !important;
+  height: 750px;
+  padding: 30px;
+  background-color: #601cfc;
+  border: 4px solid black;
+  width: 50%;
+}
+h1 {
+  padding: 10px;
+  color: white;
+  border: 2px solid black;
+  margin-bottom: 15px;
+}
+h1 a {
+  color: white;
+}
+
+img {
+  width: 90%;
+  height: 35%;
+  border: 4px solid black;
+  margin: 20px 0px;
+}
+.description {
+  border: 4px solid black;
+  padding: 0px 20px;
+}
+.description p {
+  color: white;
+}
+li {
+  color: white;
+}
+p {
+  padding: 15px 0px;
+}
+li strong {
+  color: blue;
+}
+ul {
+  padding: 10px 0px;
+}
+hr{
+    border: 2px solid black;
+}
